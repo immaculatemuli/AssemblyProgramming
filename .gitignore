@@ -1,0 +1,6 @@
+# Ignore compiled object files and binaries
+*.o
+hello
+data_demo
+alu_simulator
+marks_processor
