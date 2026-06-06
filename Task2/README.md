@@ -1,19 +1,5 @@
 # BIT 4220 — Assembly Programming
 ## Task 2: ALU Simulator — Prepaid Meter Module
-**Group Work Session 1 | Due: 10 June 2026**
-
----
-
-## Group Members
-| Name | Student ID | Role |
-|------|-----------|------|
-| [Name 1] | [ID] | alu_simulator.asm |
-| [Name 2] | [ID] | Flag analysis table |
-| [Name 3] | [ID] | Makefile & build |
-| [Name 4] | [ID] | GDB screenshots |
-| [Name 5] | [ID] | README & testing |
-
----
 
 ## Overview
 This program simulates a prepaid utility meter computation module.
@@ -56,18 +42,6 @@ markdown# BIT 4220 — Assembly Programming
 **Group Work Session 1 | Due: 10 June 2026**
 
 ---
-
-## Group Members
-| Name | Student ID | Role |
-|------|-----------|------|
-| [Name 1] | [ID] | alu_simulator.asm |
-| [Name 2] | [ID] | Flag analysis table |
-| [Name 3] | [ID] | Makefile & build |
-| [Name 4] | [ID] | GDB screenshots |
-| [Name 5] | [ID] | README & testing |
-
----
-
 ## Overview
 This program simulates a prepaid utility meter computation module.
 It is a menu-driven ALU simulator written in NASM assembly that
