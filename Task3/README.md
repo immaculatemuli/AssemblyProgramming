@@ -159,3 +159,17 @@ gdb ./marks_processor
 | All dist | 70,72,75,78,80,85,88,90,95,100 | 10 | 0 | 0 | 0 | 833 | 83 |
 
 ---
+## Screenshots
+
+### 1. Build Output
+Shows successful assembly and linking of marks_processor.asm
+![Build Output](screenshots/make_build.png)
+
+### 2. Marks Processor Output
+Shows total, average, highest, lowest and classifications
+![Marks Output](screenshots/marks_output.png)
+
+### 3. GDB Memory Inspection
+Shows all 10 marks in memory and classification registers
+![GDB Memory](screenshots/gdb_memory.png)
+
