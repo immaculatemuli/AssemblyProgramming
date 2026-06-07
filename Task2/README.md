@@ -204,3 +204,16 @@ Binary: 0000 0010 0100 0110
 | Invalid choice | 5 | 3 | 0 | Error msg | None |
 
 ---
+## Screenshots
+
+### 1. Build Output
+Shows successful assembly and linking of alu_simulator.asm
+![Build Output](screenshots/make_build.webp)
+
+### 2. ALU Simulator Running
+Shows menu, MUL (9x3=27), ADD (2+2=4) and EXIT operations
+![ALU Running](screenshots/alu_running.png)
+
+### 3. GDB Flag Inspection
+Shows eflags register inspection at program breakpoint
+![GDB Flags](screenshots/gdb_flags.webp)
