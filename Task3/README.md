@@ -166,10 +166,9 @@ Shows successful assembly and linking of marks_processor.asm
 ![Build Output](screenshots/make_build.png)
 
 ### 2. Marks Processor Output
-Shows total, average, highest, lowest and classifications
+Shows total=661, average=66, highest=95, lowest=32 and classifications
 ![Marks Output](screenshots/marks_output.png)
 
 ### 3. GDB Memory Inspection
 Shows all 10 marks in memory and classification registers
 ![GDB Memory](screenshots/gdb_memory.png)
-
