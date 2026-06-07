@@ -157,3 +157,25 @@ gdb ./data_demo
 
 ---
 
+## Screenshots
+
+### 1. Tool Versions
+![Tool Versions](screenshots/tool_versions.png)
+
+### 2. Project Structure
+![Project Structure](screenshots/project_structure.png)
+
+### 3. Build Output
+![Build Output](screenshots/make_build.png)
+
+### 4. Hello World Output
+![Hello Output](screenshots/hello_output.png)
+
+### 5. Data Demo Output
+![Data Demo Output](screenshots/data_demo_output.png)
+
+### 6. Exit Code Check
+![Exit Code](screenshots/exit_code.png)
+
+### 7. GDB Memory Inspection
+![GDB Memory](screenshots/gdb_memory.png)
